@@ -70,7 +70,7 @@ Adding custom domain name to the GitHub pages is quite easy too. We need to buy 
 - Click `+`, register and pay for the domain name you want.
 ![alt text](static/images/20.png "Cash out!")
 
-## 4. Setting app custom domain name for GitHub pages.
+## 4. Setting up custom domain name for GitHub pages.
 Now we will point the your new domain to the GitHub pages.
 - Navigate to the repository page on [Github](https://github.com). It should be: `https://github.com/*github_login*/*github_login*.github.io` and open `Settings` tab.
 ![alt text](static/images/31.png "Settings")
