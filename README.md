@@ -1,5 +1,6 @@
 # Hosting website on GitHub pages for FREE
-Instruction on how to host your website on (GitHub pages)[https://pages.github.com/] for FREE.
+There are many options for hosting your statis website. There are even complitely free ones. Among them I've found the Github pages the best free hosting for a static website.
+This is a instruction on how to host your website on (GitHub pages)[https://pages.github.com/] for FREE.
 
 ## 1. Sing Up to [Github.com](github.com) and create repository.
 We need to create account on [Github.com](github.com) and create new repository of special type.
