@@ -7,7 +7,7 @@ This is a instruction on how to host your website on [GitHub pages](https://page
 ## 1. Sing Up to [Github.com](github.com) and create repository.
 We need to create account on [Github.com](github.com) and create new repository of special type.
 
-- Go to `[Github.com](github.com)`, hit `Sign up` and complete the registration.
+- Go to `https://github.com`, hit `Sign up` and complete the registration.
 ![alt text](https://raw.githubusercontent.com/almazkun/ins_GH_hosting/master/static/images/1.png "GitHub sign Up")
 - After confirming the email address you will be redirected to the page for creating a `new repository`.
 ![alt text](https://raw.githubusercontent.com/almazkun/ins_GH_hosting/master/static/images/7.png "Create new repository")
@@ -111,15 +111,15 @@ We need to add new DNS records for our domain. For a number of reasons I like [C
 - And add DNS records we need. In the table below is how you need to type them in the empty field. They will be displayed little differently after you hit `Add Record` button. 
 
 
-Type|Name|Value
----|---|---
-A|@|185.199.108.153|
-A|@|185.199.109.153|
-A|@|185.199.110.153|
-A|@|185.199.111.153|
-CNAME|www|@
+    Type|Name|Value
+    ---|---|---
+    A|@|185.199.108.153|
+    A|@|185.199.109.153|
+    A|@|185.199.110.153|
+    A|@|185.199.111.153|
+    CNAME|www|@
 
-    
+
 - Press `Continue`. 
 ![alt text](https://raw.githubusercontent.com/almazkun/ins_GH_hosting/master/static/images/35.png "Add new ones")
 
