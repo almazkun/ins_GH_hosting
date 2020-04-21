@@ -99,7 +99,7 @@ Now we will point the your new domain to the GitHub pages.
 ![alt text](https://raw.githubusercontent.com/almazkun/ins_GH_hosting/master/static/images/32.png "Add custom domain")
 
 
-# 
+
 ## 5. Cloudflare DNS records. 
 We need to add new DNS records for our domain. For a number of reasons I like [Cloudflare](https://cloudflare.com) for that purposes.
 
@@ -118,6 +118,40 @@ We need to add new DNS records for our domain. For a number of reasons I like [C
     A|@|185.199.110.153|
     A|@|185.199.111.153|
     CNAME|www|@
+
+
+<table>
+  <tr>
+    <th>Type</th>
+    <th>Name</th>
+    <th>Value</th>
+  </tr>
+  <tr>
+    <td>A</td>
+    <td>@</td>
+    <td>185.199.108.153</td>
+  </tr>
+  <tr>
+    <td>A</td>
+    <td>@</td>
+    <td>185.199.109.153</td>
+  </tr>
+  <tr>
+    <td>A</td>
+    <td>@</td>
+    <td>185.199.110.153</td>
+  </tr>
+  <tr>
+    <td>A</td>
+    <td>@</td>
+    <td>185.199.111.153</td>
+  </tr>
+  <tr>
+    <td>CNAME</td>
+    <td>www</td>
+    <td>@</td>
+  </tr>
+</table> 
 
 
 - Press `Continue`. 
@@ -142,6 +176,6 @@ We need to add new DNS records for our domain. For a number of reasons I like [C
 ![alt text](https://raw.githubusercontent.com/almazkun/ins_GH_hosting/master/static/images/39.png "Done")
 
 
-# 
+
 ## Done
 We are actually done. We deployed a website to the internet without leaving a browser. Thank you!
