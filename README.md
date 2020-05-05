@@ -76,11 +76,11 @@ Now we need to create a website you want to host on the internet. We can clone t
 
 # 
 ## 3. Buy your domain name.
-Adding custom domain name to the GitHub pages is quite easy too. We need to buy one first. You can buy it from whatever registrar you want. I like [Porkbun](https://github.com/almazkun/ins_GH_hosting/https://porkbun.com/) registrar.
+Adding custom domain name to the GitHub pages is quite easy too. We need to buy one first. You can buy it from whatever registrar you want. I like [Porkbun.com](https://porkbun.com/) registrar.
 
 
 - Go to [Porkbun.com](https://porkbun.com/). 
-![alt text](https://raw.githubusercontent.com/almazkun/ins_GH_hosting/master/static/images/16.png "Here is to found!")
+![alt text](https://raw.githubusercontent.com/almazkun/ins_GH_hosting/master/static/images/16.png "Here is to be found!")
 - Find a desired domain name. I wanted to buy `focuskeeper.app`.
 ![alt text](https://raw.githubusercontent.com/almazkun/ins_GH_hosting/master/static/images/17.png "It might be unavailable")
 - Click `+`, register and pay for the domain name you want.
